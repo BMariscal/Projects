@@ -9,5 +9,8 @@
       
   *  [Vanilla JS Calculator](https://github.com/BMariscal/Calculator)
       * Basic calculator 
+      
+  *  [Interactive Tic-Tac-Toe](https://github.com/BMariscal/FreeCodeCamp_Projects/tree/master/tic-tac-toe)
+      * Vanilla JS Tic-Tac-Toe
 
   
