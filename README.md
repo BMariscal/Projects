@@ -10,8 +10,8 @@
       * Vanilla JS Tic-Tac-Toe
       
   *  [Simon Game](https://github.com/BMariscal/FreeCodeCamp_Projects/tree/master/SimonGame)
-    * My first solo attempt at making an app with MVC in mind.
-    * Written In Vanilla Javascript and uses MP3 files
+      * My first solo attempt at making an app with MVC in mind.
+      * Written In Vanilla Javascript and uses MP3 files
       
  
 
